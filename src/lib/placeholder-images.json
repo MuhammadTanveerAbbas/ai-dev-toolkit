@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "instahighlight-logo",
+      "description": "Abstract representation of a camera shutter or a highlighted moment.",
+      "imageUrl": "https://picsum.photos/seed/instahighlight-logo/200/200",
+      "imageHint": "abstract logo"
+    }
+  ]
+}
