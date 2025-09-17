@@ -51,7 +51,7 @@ Here's a look at the 12 tools included in the toolkit:
 
 The easiest way to use the toolkit is through the hosted web application.
 
-1.  **[Open the App](https://your-app-url.com)** (replace with your live URL)
+1.  **[Open the App](https://ai-dev-toolkit.vercel.app/)** (replace with your live URL)
 2.  Select a tool from the main page.
 3.  Follow the simple instructions paste your code, diff, or schema.
 4.  Get instant, AI powered results!
@@ -72,7 +72,7 @@ If you want to run the project on your own machine:
 3.  **Set up environment variables:**
     Create a `.env` file in the root directory and add your Google AI (Gemini) API key:
     ```env
-    API_KEY=your_api_key_here
+    GEMINI_API_KEY=your_api_key_here
     ```
 4.  **Run the development server:**
     ```bash
