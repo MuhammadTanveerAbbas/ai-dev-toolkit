@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   creator: "Muhammad Tanveer Abbas",
   publisher: "Muhammad Tanveer Abbas",
   icons: {
-    icon: "/fevicon.png",
+    icon: "/favicon.png",
   },
   openGraph: {
     title: "AI Dev Toolkit | Supercharge Your Development Workflow",
